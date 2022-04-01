@@ -1,0 +1,15 @@
+{
+  "name": "2.4-dealing-with-errors",
+  "version": "1.0.0",
+  "description": "\"My solution for 2.4\"",
+  "main": "src/index.js",
+  "module": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leslie Vaughn",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
